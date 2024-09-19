@@ -5,12 +5,6 @@ Site desenvolvido para o Curso Eu ProgrAmo - Front-End | Minha primeira página 
 Mulheres que Fizeram História na Tecnologia: Ada Lovelace
 Este projeto é uma página informativa sobre a vida e legado de Ada Lovelace, a primeira pessoa a escrever um algoritmo para ser processado por uma máquina, e considerada uma das figuras pioneiras da computação moderna. A página também homenageia outras mulheres que fizeram contribuições significativas à tecnologia.
 
-Descrição
-Funcionalidades
-Como executar
-Estrutura do Projeto
-Tecnologias Utilizadas
-
 Descrição:
 A página oferece uma visão detalhada sobre a vida de Ada Lovelace, dividida em três seções principais: Infância, Juventude e Vida adulta. Cada seção explora momentos marcantes da trajetória de Ada e suas contribuições para o desenvolvimento da ciência da computação. Além disso, a página inclui links para informações sobre outras mulheres influentes na história da tecnologia e um formulário para que os usuários possam se inscrever para receber mais informações.
 
