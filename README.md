@@ -62,3 +62,7 @@
   <li><b>CSS:</b> Estilização e layout da página.</li>
   <li><b>JavaScript:</b> Validação do formulário e interatividade da página.</li>
 </ul>
+
+<h2>Licença MIT:</h2>
+
+<p>Este projeto é licenciado sob a <a href="https://opensource.org/licenses/MIT">Licença MIT</a>. Você pode usá-lo, modificá-lo e distribuí-lo livremente, desde que inclua a licença original e os direitos autorais. Para mais informações, consulte o arquivo <code>LICENSE</code> no repositório.</p>
