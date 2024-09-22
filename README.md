@@ -1,5 +1,5 @@
 # site-ada
-<b> Site desenvolvido para o Curso Eu ProgrAmo - Front-End | Minha primeira página web, realizado pela PrograMaria.</b>
+<b><h1> Site desenvolvido para o Curso Eu ProgrAmo - Front-End | Minha primeira página web, realizado pela PrograMaria.</b></h1>
 
 
 Mulheres que Fizeram História na Tecnologia: Ada Lovelace
